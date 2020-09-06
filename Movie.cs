@@ -11,6 +11,8 @@ namespace TestingWithGiraffe
         public string director;
         private string rating;
 
+        //so cool!
+
         public Movie(string aTitle, string aDirector, string aRating)
         {
             title = aTitle;
