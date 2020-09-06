@@ -10,6 +10,8 @@ namespace TestingWithGiraffe
         public string author;
         private string rating;
 
+        
+
         public Book() { }
 
         public Book(string aTitle, string aAuthor, string aRating)
@@ -19,7 +21,7 @@ namespace TestingWithGiraffe
             rating = aRating;
         }
 
-        // Getter and Setter 
+        // Getter and Setter
         public string Rating
         {
             get { return rating; }
