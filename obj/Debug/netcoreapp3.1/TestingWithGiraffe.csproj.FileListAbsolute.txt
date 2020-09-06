@@ -1,0 +1,13 @@
+C:\Users\CJHOWELL\Desktop\TestingWithGiraffe\bin\Debug\netcoreapp3.1\TestingWithGiraffe.exe
+C:\Users\CJHOWELL\Desktop\TestingWithGiraffe\bin\Debug\netcoreapp3.1\TestingWithGiraffe.deps.json
+C:\Users\CJHOWELL\Desktop\TestingWithGiraffe\bin\Debug\netcoreapp3.1\TestingWithGiraffe.runtimeconfig.json
+C:\Users\CJHOWELL\Desktop\TestingWithGiraffe\bin\Debug\netcoreapp3.1\TestingWithGiraffe.runtimeconfig.dev.json
+C:\Users\CJHOWELL\Desktop\TestingWithGiraffe\bin\Debug\netcoreapp3.1\TestingWithGiraffe.dll
+C:\Users\CJHOWELL\Desktop\TestingWithGiraffe\bin\Debug\netcoreapp3.1\TestingWithGiraffe.pdb
+C:\Users\CJHOWELL\Desktop\TestingWithGiraffe\obj\Debug\netcoreapp3.1\TestingWithGiraffe.csproj.CoreCompileInputs.cache
+C:\Users\CJHOWELL\Desktop\TestingWithGiraffe\obj\Debug\netcoreapp3.1\TestingWithGiraffe.AssemblyInfoInputs.cache
+C:\Users\CJHOWELL\Desktop\TestingWithGiraffe\obj\Debug\netcoreapp3.1\TestingWithGiraffe.AssemblyInfo.cs
+C:\Users\CJHOWELL\Desktop\TestingWithGiraffe\obj\Debug\netcoreapp3.1\TestingWithGiraffe.dll
+C:\Users\CJHOWELL\Desktop\TestingWithGiraffe\obj\Debug\netcoreapp3.1\TestingWithGiraffe.pdb
+C:\Users\CJHOWELL\Desktop\TestingWithGiraffe\obj\Debug\netcoreapp3.1\TestingWithGiraffe.genruntimeconfig.cache
+C:\Users\CJHOWELL\Desktop\TestingWithGiraffe\obj\Debug\netcoreapp3.1\TestingWithGiraffe.csprojAssemblyReference.cache
